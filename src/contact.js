@@ -1,3 +1,4 @@
+//contact data
 const contacts = [
   {
     name: 'Ripu',
