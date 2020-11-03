@@ -1,0 +1,24 @@
+/* .cards{
+    margin-top: 1em !important;
+    width: 20em;
+    margin-left: 0% !important;
+} */
+.card{
+    margin-bottom: 4em !important;
+}
+body{
+    margin: 0;
+    min-height: 100vh !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+.Footer{
+    padding: 3em;
+   margin-top: auto !important;
+    width: 100vw;
+    background: black;
+}
+.FooterText{
+    color: white;
+    text-align: center;
+}
