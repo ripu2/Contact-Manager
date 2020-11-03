@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![image](https://user-images.githubusercontent.com/44752831/98020401-faca0200-1e28-11eb-9b38-641060f5b497.png)
 ![image](https://user-images.githubusercontent.com/44752831/98020517-1b925780-1e29-11eb-8e2e-12eba8879669.png)
 ![image](https://user-images.githubusercontent.com/44752831/98020672-4ed4e680-1e29-11eb-8022-431f312f5ddd.png)
+
+## Mobile Screen
 ![Screenshot_2020-11-03-23-23-33-251_com android chrome](https://user-images.githubusercontent.com/44752831/98022568-cb68c480-1e2b-11eb-8cbe-a63e8cea8d56.jpg)
 
 
